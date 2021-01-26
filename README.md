@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ccqstark's github stats](https://github-readme-stats.vercel.app/api?username=ccqstark&count_private=true&show_icons=true&theme=dracula)](https://github.com/ccqstark/github-readme-stats)
+[![ccqstark's github stats](https://github-readme-stats.vercel.app/api?username=ccqstark&count_private=true&show_icons=true&theme=dracula)](https://github.com/ccqstark/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccqstark)](https://github.com/ccqstark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccqstark)](https://github.com/ccqstark/)
 
-[![ccqstark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccqstark&layout=compact)](https://github.com/ccqstark/github-readme-stats)
+[![ccqstark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccqstark&layout=compact)](https://github.com/ccqstark/)
