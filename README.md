@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![ccqstark's github stats](https://github-readme-stats.vercel.app/api?username=ccqstark&count_private=true&show_icons=true&theme=dracula)](https://github.com/ccqstark/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccqstark&layout=compact)](https://github.com/ccqstark/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccqstark&layout=compact)](https://ccqstark.github.io/)
 
-[![ccqstark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccqstark)](https://github.com/ccqstark/)
+[![ccqstark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccqstark)](https://wakatime.com/@ccqstark)
