@@ -1,12 +1,13 @@
- ________________________ 
+```
+ _________________________
 < Hello! I am ccqstark! 😅 >
- ------------------------ 
+ -------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
+```
 
 <!--
 **ccqstark/ccqstark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
