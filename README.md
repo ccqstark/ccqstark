@@ -1,6 +1,6 @@
 ```
  _________________________
-< Hello! I am ccqstark! 😅 >
+< Hey! I am ccqstark!🤣 >
  -------------------------
         \   ^__^
          \  (oo)\_______
@@ -9,10 +9,19 @@
                 ||     ||
 ```
 
+<a href="https://ccqstark.github.io/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ccqstark&count_private=true&show_icons=true&theme=flag-india" />
+</a>
+
+<a href="https://ccqstark.github.io/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccqstark&layout=compact&hide=html" />
+</a>
+
 <!--
 **ccqstark/ccqstark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,7 +32,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![ccqstark's github stats](https://github-readme-stats.vercel.app/api?username=ccqstark&count_private=true&show_icons=true&theme=flag-india)](https://github.com/ccqstark/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccqstark&layout=compact&hide=html)](https://ccqstark.github.io/)
 
 [![ccqstark's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccqstark)](https://wakatime.com/@ccqstark)
