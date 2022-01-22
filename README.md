@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://ccqstark.github.io/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccqstark&layout=compact&hide=html" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccqstark&hide=html" />
 </a>
 
 <!--
