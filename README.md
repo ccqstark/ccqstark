@@ -13,7 +13,7 @@
 <a href="https://github.com/ccqstark"><img src="https://github-profile-trophy.vercel.app/?username=ccqstark&row=1&theme=flat" alt="achievements"></a>
 
 <a href="https://ccqstark.github.io/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ccqstark&count_private=true&show_icons=true&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ccqstark&count_private=true&show_icons=true&theme=swift" />
 </a>
 
 <a href="https://ccqstark.github.io/">
