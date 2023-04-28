@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://ccqstark.github.io/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccqstark&hide=html,jupyter%20notebook,scss,python,typescript" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccqstark&hide=html,jupyter%20notebook,scss,python,typescript,Rich%20Text%20Format" />
 </a>
 
 <!--
